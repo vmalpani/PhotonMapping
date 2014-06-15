@@ -28,9 +28,3 @@ Most of the parameters are hardcoded:
 	public static final double QUERY_RADIUS_FRACTION_CAUSTIC = 1.0 / 100.0;  
 	public static final int KNN = 50;
 	public static final int KNN_CAUSTIC = 50;
-
-A few scenes:
-
-"cbox.xml" : Default scene with 4 refractive spheres in a Cornell Box.
-"cbox-mirror-glass.xml" : A refractive sphere and a reflecting sphere in a Cornell Box.
-"spec_sphere_0.xml" : A glossy sphere in a Cornell Box
