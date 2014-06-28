@@ -1,9 +1,5 @@
 Vaibhav Malpani
 
-
-COMPUTER GRAPHICS: FINAL PROJECT
-
-
 This is Java code, it runs like the previous assignment.
 
 All our scenes use the same renderer PhotonRenderer.
