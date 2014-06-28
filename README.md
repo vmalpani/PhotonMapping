@@ -1,6 +1,4 @@
-Guillaume Le Chenadec
 Vaibhav Malpani
-Rahul Tewari
 
 
 COMPUTER GRAPHICS: FINAL PROJECT
